@@ -46,10 +46,6 @@ To run this project, follow these steps:
 2. Ensure you have the required libraries installed. You can use `pip install -r requirements.txt` to install them.
 3. Execute the Jupyter Notebook or Python script for data preprocessing, feature extraction, model development, and evaluation.
 
-## Results
-
-The model achieved an accuracy of [insert accuracy value] on the test dataset. Detailed evaluation metrics are provided in the project's Jupyter Notebook.
-
 ## Future Improvements
 
 This project serves as a starting point for sentiment analysis. There are several ways to improve it:
@@ -58,11 +54,3 @@ This project serves as a starting point for sentiment analysis. There are severa
 - Handle class imbalance issues if present in the dataset.
 - Explore ensemble methods for model improvement.
 - Collect a larger and more diverse dataset for better generalization.
-
-## Credits
-
-This project was developed by [Your Name] as part of [Course/Work/Personal Project].
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
